@@ -1,4 +1,4 @@
-# Image & Video Caption Generator using HuggingFace
+# Image Captioning using ViT + GPT-2
 
 This project demonstrates how to generate captions for images and videos using a Vision Transformer (ViT) and GPT-2 model from HuggingFace. It provides an interactive Gradio user interface for easy image and video captioning.
 
