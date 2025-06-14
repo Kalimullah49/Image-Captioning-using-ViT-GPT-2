@@ -29,7 +29,6 @@ A modern web application that uses a Hugging Face Vision Transformer (ViT) + GPT
 ## 📦 Project Structure
 
 ```text
-image-caption-app/
 ├── app/
 │   ├── main.py          # FastAPI application (routes, server)
 │   ├── model.py         # Model loading and captioning logic
