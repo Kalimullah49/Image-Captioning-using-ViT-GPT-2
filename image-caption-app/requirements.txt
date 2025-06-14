@@ -1,5 +1,8 @@
+fastapi
+uvicorn
+jinja2
+python-multipart
 transformers
-gradio
 torch
 pillow
 opencv-python
