@@ -10,9 +10,9 @@ A modern web application that uses a Hugging Face Vision Transformer (ViT) + GPT
 
 ---
 
-## 🖼️ Demo Screenshot
+## 🖼️ Demo
 
-![Demo Screenshot](../demo.png)
+![Demo](demo.png)
 
 ---
 
